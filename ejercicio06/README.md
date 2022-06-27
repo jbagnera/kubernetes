@@ -1,4 +1,4 @@
-1. Se genero el dockerfile que se encuentra en esta carpeta (uso dos FROM para copiar el jar de la imagen del ejercicio 04)
+1. Se genero el dockerfile que se encuentra en esta carpeta.
 
 2. Previo hay que crear una cuenta RedHat y loguearse
    a) Con docker build . genera la imagen
