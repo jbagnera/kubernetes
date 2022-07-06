@@ -11,7 +11,7 @@
    lo adapte para correr el bot de telegrambot:
      env:
        - name: TELEGRAM_TOKEN
-         value: "token"
+         value: "A COMPLETAR"
    desplego con kubernetes:
       kubectl apply -f deployment.yaml
    pruebo conversación 
